@@ -1,0 +1,61 @@
+﻿body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    color:blue;
+}
+    .search input[type=text] {
+        float: right;
+        margin-top: -25px;
+    }
+
+    ul {
+        list-style-type: none;
+        margin-bottom: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: lightblue;
+        color: mistyrose;
+        height: 50px;
+        outline: none;
+    }
+
+    li {
+        float: left;
+        margin-left: 200px;
+    }
+
+    ul li a {
+        text-align: center;
+        padding: 20px;
+        text-decoration: none;
+        font: bold 23px Aharoni;
+        color: white;
+    }
+
+    nav {
+        margin-bottom: -12px;
+    }
+
+    ul li a:hover {
+        font-style: italic;
+    }
+
+    .month ul li {
+        margin-left: 100px;
+    }
+
+    #hrfooter {
+        padding-top: -300px;
+        margin-bottom: 0px;
+        margin-top: 50px;
+        margin-top: 750px;
+    }
+
+    #footer {
+        color: red;
+        text-align: center;
+        text-decoration: solid;
+    }

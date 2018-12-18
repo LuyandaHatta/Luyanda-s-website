@@ -1,0 +1,33 @@
+﻿body {
+}
+
+#contact_hr {
+    margin-top: 150px;
+}
+
+#map {
+    margin-top: 50px;
+}
+
+#Address_heading {
+    text-decoration: underline;
+}
+#website_address {
+    text-align: center;
+    margin-top: -425px;
+    margin-right: -800px;
+}
+
+#details {
+    margin-top: -365px;
+}
+
+#contact_us {
+        margin-left: 500px;
+        text-decoration: underline;
+        
+    }
+button {
+    margin-right: 604px;
+    float: right;
+}

@@ -1,0 +1,64 @@
+﻿body {
+
+}
+#Kat_Meg {
+    background: url("Kat_Meg.jpg") left no-repeat;
+    float: left;
+    padding-top: -200px;
+}
+#squad {
+    background: url("squad.jpg") right no-repeat;
+    float: right;
+    padding-top:-200px;
+}
+h1 {
+    color: blue;
+    text-align:center;
+    font-style:italic;
+}
+#blogs_border {
+    border:solid;
+    border-color:blue;
+    margin-left: 490px;
+    margin-right: 450px;
+    margin-bottom:40px;
+    margin-top:20px;
+    padding-left:5px;
+
+}
+
+#latest_blogs {
+    text-decoration: underline;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 490px;
+    margin-right: 450px;
+}
+#new_blog {
+    margin-left: 490px;
+    margin-right: 450px;
+    font-style: italic;
+    color: darkblue;
+    text-decoration: none;
+}
+p {
+    margin-left: 490px;
+    margin-right: 450px;
+}
+#old_blog
+{
+    margin-left: 490px;
+    margin-right: 450px;
+    color: darkblue;
+    text-decoration: none;
+    font-style: italic;
+}
+
+#hrmainfooter {
+}
+#mainfooter {
+    color: red;
+    text-align: center;
+    text-decoration: solid;
+
+}
